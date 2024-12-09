@@ -1,4 +1,59 @@
 
+# Sistema de Gestão de Utilizadores numa Loja
+
+Este projeto faz parte das aulas de **Programação de Sistemas de Informação (PSI)** na **Escola Profissional de Serviços de Cidenai**, orientadas pelo professor **Roberto Pereira**. 
+
+O objetivo é implementar um sistema de gestão de utilizadores numa loja, utilizando conceitos de **Programação Orientada a Objetos (POO)**, como **herança** e **polimorfismo**.
+
+---
+
+## Descrição do Problema
+
+A loja possui três tipos de utilizadores:
+1. **Gerente** - tem a capacidade de fechar o caixa pode registar vendsa visto que herda de funcionario 
+2. **Funcionário** - pode registar vendas,
+3. **Cliente** - pode visualizar as suas informações pessoais.
+
+Todos os utilizadores partilham atributos e métodos da classe base **Utilizador**.
+
+---
+
+## Estrutura do Projeto
+
+### Diagrama de Classes
+
+```
++------------------+
+|     Utilizador   |
+|------------------|
+| - Nome           |
+| - Senha          |
+|------------------|
+| + ExibirInfo()   |
++------------------+
+        ▲
+        |
+        +---------------------+
+        |                     |
++------------------+    +--------------------+
+|     Cliente         |    |   Funcionário        |
+|------------------  |   |------------------       |
+| - Endereço       |    |                               |
+| - Telefone        |    |                               |
+|------------------  |    |---------------------   |
+| + ExibirInfo()   |   | + RegistrarVenda()|
++------------------+    +----------------------+
+                                  ▲
+                                  |
+                          +------------------+
+                          |     Gerente          |
+                          |------------------    |
+                          |                            |
+                          |------------------    |
+                          | + FecharCaixa()  |
+                          +------------------+
+```
+
 ### Funcionalidades
 
 1. **Utilizador (Classe Base)**
@@ -22,8 +77,8 @@
 - Implementar as classes de acordo com o diagrama de classes.
 - Criar um programa principal com as seguintes ações:
   - Criar um **Cliente** e exibir as suas informações.
-  - Criar um **Funcionário** e registar uma venda ,
-  - Criar um **Gerente** e realizar o fecho de caixa e registar vendas visto que herda de funcionario
+  - Criar um **Funcionário** e registar uma venda.
+  - Criar um **Gerente** e realizar o fecho de caixa.
 
 ---
 
@@ -37,4 +92,19 @@
 
 ---
 
+## Como Executar
 
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/a20731/sistema-gestao-loja.git
+   ```
+2. Abra o projeto num editor C# (ex.: Visual Studio).
+3. Compile e execute o programa principal.
+
+---
+
+## Contato
+
+- **Professor:** Roberto Pereira.
+- **Disciplina:** PSI.
+- **Escola:** Escola Profissional de Serviços de Cidenai.
