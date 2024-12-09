@@ -76,7 +76,7 @@ Todos os utilizadores partilham atributos e métodos da classe base **Utilizador
 
 - Implementar as classes de acordo com o diagrama de classes.
 - Criar um programa principal com as seguintes ações:
-  - Criar um **Cliente** e exibir as suas informações.
+  - Criar um **Cliente** e exibir as suas informações e fechar vendas
   - Criar um **Funcionário** e registar uma venda.
   - Criar um **Gerente** e realizar o fecho de caixa.
 
