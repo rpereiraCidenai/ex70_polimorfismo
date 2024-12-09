@@ -1,0 +1,15 @@
+D:\CIDENAI\poo\Ex70_polimorfismo\bin\Debug\net8.0\Ex70_polimorfismo.exe
+D:\CIDENAI\poo\Ex70_polimorfismo\bin\Debug\net8.0\Ex70_polimorfismo.deps.json
+D:\CIDENAI\poo\Ex70_polimorfismo\bin\Debug\net8.0\Ex70_polimorfismo.runtimeconfig.json
+D:\CIDENAI\poo\Ex70_polimorfismo\bin\Debug\net8.0\Ex70_polimorfismo.dll
+D:\CIDENAI\poo\Ex70_polimorfismo\bin\Debug\net8.0\Ex70_polimorfismo.pdb
+D:\CIDENAI\poo\Ex70_polimorfismo\obj\Debug\net8.0\Ex70_polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+D:\CIDENAI\poo\Ex70_polimorfismo\obj\Debug\net8.0\Ex70_polimorfismo.AssemblyInfoInputs.cache
+D:\CIDENAI\poo\Ex70_polimorfismo\obj\Debug\net8.0\Ex70_polimorfismo.AssemblyInfo.cs
+D:\CIDENAI\poo\Ex70_polimorfismo\obj\Debug\net8.0\Ex70_polimorfismo.csproj.CoreCompileInputs.cache
+D:\CIDENAI\poo\Ex70_polimorfismo\obj\Debug\net8.0\Ex70_polimorfismo.sourcelink.json
+D:\CIDENAI\poo\Ex70_polimorfismo\obj\Debug\net8.0\Ex70_polimorfismo.dll
+D:\CIDENAI\poo\Ex70_polimorfismo\obj\Debug\net8.0\refint\Ex70_polimorfismo.dll
+D:\CIDENAI\poo\Ex70_polimorfismo\obj\Debug\net8.0\Ex70_polimorfismo.pdb
+D:\CIDENAI\poo\Ex70_polimorfismo\obj\Debug\net8.0\Ex70_polimorfismo.genruntimeconfig.cache
+D:\CIDENAI\poo\Ex70_polimorfismo\obj\Debug\net8.0\ref\Ex70_polimorfismo.dll

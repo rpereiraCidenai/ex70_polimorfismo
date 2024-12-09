@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CIDENAI\\poo\\Ex70_polimorfismo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F93363E4-4869-4F77-B87E-70F1B235F9C4}|Ex70_polimorfismo.csproj|d:\\cidenai\\poo\\ex70_polimorfismo\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93363E4-4869-4F77-B87E-70F1B235F9C4}|Ex70_polimorfismo.csproj|solutionrelative:cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93363E4-4869-4F77-B87E-70F1B235F9C4}|Ex70_polimorfismo.csproj|d:\\cidenai\\poo\\ex70_polimorfismo\\utilizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93363E4-4869-4F77-B87E-70F1B235F9C4}|Ex70_polimorfismo.csproj|solutionrelative:utilizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93363E4-4869-4F77-B87E-70F1B235F9C4}|Ex70_polimorfismo.csproj|d:\\cidenai\\poo\\ex70_polimorfismo\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93363E4-4869-4F77-B87E-70F1B235F9C4}|Ex70_polimorfismo.csproj|solutionrelative:gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93363E4-4869-4F77-B87E-70F1B235F9C4}|Ex70_polimorfismo.csproj|d:\\cidenai\\poo\\ex70_polimorfismo\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93363E4-4869-4F77-B87E-70F1B235F9C4}|Ex70_polimorfismo.csproj|solutionrelative:funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93363E4-4869-4F77-B87E-70F1B235F9C4}|Ex70_polimorfismo.csproj|d:\\cidenai\\poo\\ex70_polimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93363E4-4869-4F77-B87E-70F1B235F9C4}|Ex70_polimorfismo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gerente.cs",
+              "DocumentMoniker": "D:\\CIDENAI\\poo\\Ex70_polimorfismo\\Gerente.cs",
+              "RelativeDocumentMoniker": "Gerente.cs",
+              "ToolTip": "D:\\CIDENAI\\poo\\Ex70_polimorfismo\\Gerente.cs",
+              "RelativeToolTip": "Gerente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:00:52.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "D:\\CIDENAI\\poo\\Ex70_polimorfismo\\Funcionario.cs",
+              "RelativeDocumentMoniker": "Funcionario.cs",
+              "ToolTip": "D:\\CIDENAI\\poo\\Ex70_polimorfismo\\Funcionario.cs",
+              "RelativeToolTip": "Funcionario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:00:15.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "D:\\CIDENAI\\poo\\Ex70_polimorfismo\\Cliente.cs",
+              "RelativeDocumentMoniker": "Cliente.cs",
+              "ToolTip": "D:\\CIDENAI\\poo\\Ex70_polimorfismo\\Cliente.cs",
+              "RelativeToolTip": "Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T14:59:22.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Utilizador.cs",
+              "DocumentMoniker": "D:\\CIDENAI\\poo\\Ex70_polimorfismo\\Utilizador.cs",
+              "RelativeDocumentMoniker": "Utilizador.cs",
+              "ToolTip": "D:\\CIDENAI\\poo\\Ex70_polimorfismo\\Utilizador.cs",
+              "RelativeToolTip": "Utilizador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T14:58:27.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CIDENAI\\poo\\Ex70_polimorfismo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\CIDENAI\\poo\\Ex70_polimorfismo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T14:56:48.058Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
