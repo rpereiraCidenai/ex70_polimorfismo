@@ -1,23 +1,40 @@
-# Sistema de Gestão de Utilizadores numa Loja
 
-Este projeto faz parte das aulas de **Programação de Sistemas de Informação (PSI)** na **Escola Profissional de Serviços de Cidenai**, orientadas pelo professor **Roberto Pereira**. 
+### Funcionalidades
 
-O objetivo é implementar um sistema de gestão de utilizadores numa loja, utilizando conceitos de **Programação Orientada a Objetos (POO)**, como **herança** e **polimorfismo**.
+1. **Utilizador (Classe Base)**
+   - Atributos: Nome, Senha.
+   - Método: `ExibirInfo()` - Exibe informações básicas.
+
+2. **Cliente (Subclasse)**
+   - Atributos: Endereço, Telefone.
+   - Método: `ExibirInfo()` - Exibe informações pessoais.
+
+3. **Funcionário (Subclasse)**
+   - Método: `RegistrarVenda()` - Regista vendas realizadas.
+
+4. **Gerente (Subclasse de Funcionário)**
+   - Método: `FecharCaixa()` - Realiza o fecho de caixa.
 
 ---
 
-## Descrição do Problema
+## Objetivo
 
-A loja possui três tipos de utilizadores:
-1. **Gerente** - tem a capacidade de fechar o caixa e registar vendas , devido a herdar da classe funcionario
-2. **Funcionário** - pode registar vendas.
-3. **Cliente** - pode visualizar as suas informações pessoais.
-
-Todos os utilizadores partilham atributos e métodos da classe base **Utilizador**.
+- Implementar as classes de acordo com o diagrama de classes.
+- Criar um programa principal com as seguintes ações:
+  - Criar um **Cliente** e exibir as suas informações.
+  - Criar um **Funcionário** e registar uma venda ,
+  - Criar um **Gerente** e realizar o fecho de caixa e registar vendas visto que herda de funcionario
 
 ---
 
-## Estrutura do Projeto
+## Requisitos Técnicos
 
-### Diagrama de Classes
+- **Linguagem:** C#.
+- **Conceitos Utilizados:**
+  - Herança.
+  - Polimorfismo.
+  - Reutilização de Código.
+
+---
+
 
