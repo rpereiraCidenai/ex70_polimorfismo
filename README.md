@@ -36,21 +36,21 @@ Todos os utilizadores partilham atributos e métodos da classe base **Utilizador
         +---------------------+
         |                     |
 +------------------+    +--------------------+
-|     Cliente         |    |   Funcionário        |
-|------------------  |   |------------------       |
-| - Endereço       |    |                               |
-| - Telefone        |    |                               |
-|------------------  |    |---------------------   |
-| + ExibirInfo()   |   | + RegistrarVenda()|
-+------------------+    +----------------------+
+|     Cliente       |   |   Funcionário      |
+|------------------ |   |------------------  |
+| - Endereço        |   |                    |
+| - Telefone        |   |                    |
+|------------------ |   |-----------------   |
+| + ExibirInfo()    |   | + RegistrarVenda() |
++------------------+    +--------------------+
                                   ▲
                                   |
                           +------------------+
                           |     Gerente          |
                           |------------------    |
-                          |                            |
+                          |                      |
                           |------------------    |
-                          | + FecharCaixa()  |
+                          | + FecharCaixa()      |
                           +------------------+
 ```
 
@@ -96,7 +96,7 @@ Todos os utilizadores partilham atributos e métodos da classe base **Utilizador
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/a20731/sistema-gestao-loja.git
+   git clone 
    ```
 2. Abra o projeto num editor C# (ex.: Visual Studio).
 3. Compile e execute o programa principal.
